@@ -1,4 +1,4 @@
 # proj1
 this is my firt repository 
 <br>
-author- umar khan
+author- umar khan(student)
